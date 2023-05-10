@@ -1,0 +1,1 @@
+After both source packages have been deployed. Once maintain the translation in Salesforce for the field. Then pull the CustomObjectTranslation via the CLI.
