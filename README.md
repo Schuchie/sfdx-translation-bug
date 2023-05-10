@@ -1,4 +1,4 @@
-After both source packages have been deployed. Once maintain the translation in Salesforce for the field. Then pull the CustomObjectTranslation via the CLI.
+After both source packages have been deployed. Once translate the customField__c of the customObject__c in Salesforce. Then pull the CustomObjectTranslation via the CLI.
 
 Following error will occur:
 ```
